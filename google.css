@@ -1,0 +1,11 @@
+body{
+    width:100%;
+}
+#navbar-left{
+float:left;
+
+}
+#navbar-right{
+    float:right;
+    text-decoration:none;
+}
